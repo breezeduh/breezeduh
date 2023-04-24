@@ -1,4 +1,8 @@
-### Hi there 👋
+### Не забывай выходить из гитхаба, чел :)
+
+ато я тебе цп в репу залью
+
+![кртнк](a.png)
 
 <!--
 **breezeduh/breezeduh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
