@@ -2,7 +2,7 @@
 
 ато я тебе цп в репу залью
 
-![кртнк](a.png)
+![кртнк](af.png)
 
 <!--
 **breezeduh/breezeduh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
